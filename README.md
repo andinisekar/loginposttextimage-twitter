@@ -1,4 +1,4 @@
-tweeter selenium
+twitter selenium
 ====
 
 install python
